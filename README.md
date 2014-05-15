@@ -39,7 +39,7 @@ The applications available are:
 <dt>Tridion 2009 COM</dt>
 <dd>32-bit interface in .net 2 using deprecated Tridion 2009 COM+</dd>
 <dt>Tridion 2009 Native</dt>
-<dd>32-bit interface in .net 2 using !CodeMesh JVM</dd>
+<dd>32-bit interface in .net 2 using CodeMesh JVM</dd>
 <dt>Tridion 2011 Native</dt>
 <dd>Both 32-bit / 64-bit interface in .net 2 using CodeMesh JVM</dd>
 <dt>Tridion 2013 Native</dt>
