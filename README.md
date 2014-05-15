@@ -29,7 +29,7 @@ The component link and dynamic component presentation to be retrieved can be con
         </appSettings>
     </configuration>
 
-Additionally for the native !CodeMesh JVM versions, the utility also displays which JVM is actually used:
+Additionally for the native CodeMesh JVM versions, the utility also displays which JVM is actually used:
 
     CodeMesh using Java: C:\Program Files\Java\jre6\bin\server\jvm.dll
 
@@ -41,7 +41,7 @@ The applications available are:
 <dt>Tridion 2009 Native</dt>
 <dd>32-bit interface in .net 2 using !CodeMesh JVM</dd>
 <dt>Tridion 2011 Native</dt>
-<dd>Both 32-bit / 64-bit interface in .net 2 using !CodeMesh JVM</dd>
+<dd>Both 32-bit / 64-bit interface in .net 2 using CodeMesh JVM</dd>
 <dt>Tridion 2013 Native</dt>
-<dd>Both 32-bit / 64-bit interface in .net 4 using !CodeMesh JVM</dd>
+<dd>Both 32-bit / 64-bit interface in .net 4 using CodeMesh JVM</dd>
 </dl>
