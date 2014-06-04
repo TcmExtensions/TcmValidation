@@ -45,3 +45,5 @@ The applications available are:
 <dt>Tridion 2013 Native</dt>
 <dd>Both 32-bit / 64-bit interface in .net 4 using CodeMesh JVM</dd>
 </dl>
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/cb439853d159fe1de33e3197f1caf6f7 "githalytics.com")](http://githalytics.com/github.com/TcmExtensions)
